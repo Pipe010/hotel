@@ -1,0 +1,15 @@
+ACTIVIDAD HOTEL Y RESERVAS
+
+
+Trigger:
+La función de este disparador es calcular el subtotal, determina si aplica para el 10% de descuento si la diferencia entre fecha de entrada y de reserva es mayor o igual a 15 dias y total al insertar una reserva automáticamente con operaciones que se definieron en el script.
+
+
+Procedure:
+Devuelve las habitaciones que no tienen ninguna reserva dentro del rango de fechas.
+
+
+
+
+
+
