@@ -6,7 +6,7 @@ La función de este disparador es calcular el subtotal, determina si aplica para
 
 
 Procedure:
-Devuelve las habitaciones que no tienen ninguna reserva dentro del rango de fechas
+Devuelve las habitaciones que no tienen ninguna reserva dentro del rango de fechas.
 
 
 
